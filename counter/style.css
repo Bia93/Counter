@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body .container {
+  text-align: center;
+  margin-top: 15em;
+}
+body .container .h1 {
+  font-size: 5rem;
+  margin-bottom: 0.5em;
+}
+body .container #value {
+  font-size: 4rem;
+  color: green;
+}
+body .container .flex {
+  font-size: 3rem;
+  margin-top: 1em;
+}
+body .container .btn {
+  font-size: 1rem;
+  border-radius: 10px;
+  padding: 1rem;
+  cursor: pointer;
+}
+body .container .btn:hover {
+  background-color: pink;
+}/*# sourceMappingURL=style.css.map */
